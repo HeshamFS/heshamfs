@@ -148,4 +148,4 @@ Systems that are useful, testable, extensible, and just autonomous enough to sav
 
 ---
 
-<p align="center"><sub>Built in Germany with coffee, constraints, and a healthy distrust of brittle workflows.</sub></p>>
+<p align="center"><sub>Built in Germany with coffee, constraints, and a healthy distrust of brittle workflows.</sub></p>
