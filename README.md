@@ -110,28 +110,42 @@ known_issue:
 - **simulation + numerical rigor** → open [`materials-simulation-skills`](https://github.com/HeshamFS/materials-simulation-skills)
 - **the broader vision** → visit [AutonomousLab](https://autonomouslab.io/)
 
-## Fun FAQ
+## `fun_faq`
 
-**Q: What do you actually build?**  
-A: Agentic systems, scientific tooling, and enough automation to make manual workflows file a complaint.
+<details>
+<summary><strong>Why multi-agent systems?</strong></summary>
+<br/>
+Because asking one model to do everything is the AI equivalent of staffing a research lab with one sleep-deprived intern and a motivational poster.
+</details>
 
-**Q: Why AI + numerical modeling?**  
-A: Because engineering deserves better than autocomplete with delusions of adequacy.
+<details>
+<summary><strong>What kind of problems interest you most?</strong></summary>
+<br/>
+The ones where language meets tooling, automation meets reality, and the outcome matters outside the chat window.
+</details>
 
-**Q: Do you like single-agent systems?**  
-A: Sure. In the same way I like using one person to run an entire research lab.
+<details>
+<summary><strong>What breaks your heart a little?</strong></summary>
+<br/>
+Agents without tools. Benchmarks without baselines. Simulation workflows held together by folklore and clipboard history.
+</details>
 
-**Q: What kind of problems are interesting to you?**  
-A: The ones where language models meet hard constraints, real tools, and consequences outside the chat window.
+<details>
+<summary><strong>What do you optimize for?</strong></summary>
+<br/>
+Systems that are useful, testable, extensible, and just autonomous enough to save real time without inventing new categories of chaos.
+</details>
 
-## Send signal
+---
+
+## `send_signal`
 
 <p>
-  <a href="https://autonomouslab.io/"><img src="https://img.shields.io/badge/Read-Website-black?style=for-the-badge" alt="Website" /></a>
+  <a href="https://heshamsalama.dev/"><img src="https://img.shields.io/badge/Read-AutonomousLab-black?style=for-the-badge" alt="Website" /></a>
   <a href="https://www.linkedin.com/in/heshamfsalama/"><img src="https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://x.com/heshamfsalama"><img src="https://img.shields.io/badge/Follow-X-111111?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter" /></a>
 </p>
 
 ---
 
-<p align="center"><sub>Built with coffee, constraints, and a healthy distrust of brittle workflows.</sub></p>
+<p align="center"><sub>Built in Germany with coffee, constraints, and a healthy distrust of brittle workflows.</sub></p>>
