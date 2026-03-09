@@ -54,8 +54,6 @@ known_issue:
   - gets suspicious when a solver converges too quickly
 ```
 
-### 🐍 Watch my contributions get eaten
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HeshamFS/heshamfs/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HeshamFS/heshamfs/output/github-contribution-grid-snake.svg">
