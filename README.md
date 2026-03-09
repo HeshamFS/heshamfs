@@ -93,15 +93,15 @@ known_issue:
 - bridging LLM interfaces with domain-specific computation
 - making technical systems feel a little less brittle and a little more alive
 
-## Human patch notes
+### 🐍 Watch my contributions get eaten
 
-```diff
-+ shipped: agentic systems for engineering workflows
-+ added: domain expertise for numerical simulation agents
-+ optimized: time spent on repetitive setup and tool plumbing
-- removed: tolerance for copy-paste driven architectures
-! warning: may start sketching agent topologies on napkins
-```
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HeshamFS/HeshamFS/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HeshamFS/HeshamFS/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/HeshamFS/HeshamFS/output/github-snake.svg" />
+  </picture>
+</div>
 
 ## If you came here for...
 
