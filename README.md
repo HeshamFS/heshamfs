@@ -62,15 +62,6 @@ known_issue:
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/HeshamFS/heshamfs/output/github-contribution-grid-snake.svg">
 </picture>
 
-
-
-## If you came here for...
-
-- **AI agents** → start with [`swarmweaver`](https://github.com/HeshamFS/swarmweaver)
-- **MCP / tool ecosystems** → go to [`mcp-tool-factory-ts`](https://github.com/HeshamFS/mcp-tool-factory-ts)
-- **simulation + numerical rigor** → open [`materials-simulation-skills`](https://github.com/HeshamFS/materials-simulation-skills)
-- **the broader vision** → visit [AutonomousLab](https://autonomouslab.io/)
-
 ## `fun_faq`
 
 <details>
