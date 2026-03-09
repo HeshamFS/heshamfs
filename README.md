@@ -54,45 +54,6 @@ known_issue:
   - gets suspicious when a solver converges too quickly
 ```
 
-## What I build
-
-### 🤖 Agentic systems
-- **[swarmweaver](https://github.com/HeshamFS/swarmweaver)** — autonomous coding with swarm orchestration, parallel worktrees, approval gates, and multiple execution modes. Because sometimes one agent is helpful and five agents are a strategy.
-- **[agentic-rag](https://github.com/HeshamFS/agentic-rag)** — retrieval patterns for agentic workflows, where memory should be useful and not just decorative.
-
-### 🧰 Tooling for AI to do actual work
-- **[mcp-tool-factory-ts](https://github.com/HeshamFS/mcp-tool-factory-ts)** — generate production-ready MCP servers from natural language, OpenAPI specs, database schemas, GraphQL, or ontologies.
-- **[openphase-cli-wizard](https://github.com/HeshamFS/openphase-cli-wizard)** — developer tooling for simulation workflows, because heroic copy-pasting is not an architecture.
-
-### 🧪 AI for simulation and materials science
-- **[materials-simulation-skills](https://github.com/HeshamFS/materials-simulation-skills)** — open Agent Skills for computational materials science, numerical stability, solvers, meshing, convergence, and simulation workflows.
-- **[AutonomousLab](https://autonomouslab.io/)** — essays, ideas, and experiments around AI agents, LLMs, and simulation engineering.
-
-## Mission profile
-
-| Mode | What that means |
-|---|---|
-| 🧠 Research mode | I explore how agentic systems can support scientific and engineering work without becoming decorative hype machines. |
-| 🏗️ Builder mode | I turn fuzzy ideas into tooling: MCP servers, CLIs, workflows, and systems people can actually run. |
-| 🧮 Numerical mode | If AI touches a solver, it should understand stability, convergence, validation, and error bars. |
-| ⚡ Swarm mode | I like systems that decompose work well, coordinate specialists, and ship faster than a single overworked super-agent. |
-
-## Working principles
-
-- **Automate the boring.** Humans should not be trapped in repetitive glue work.
-- **Prefer verifiable workflows over vibes.** Especially when physics, simulation, or production systems are involved.
-- **Design agents like teams.** Specialized roles, clear interfaces, bounded autonomy.
-- **Demo energy is nice.** Reproducibility is nicer.
-- **If the result looks magical,** I probably want logs, tests, and a benchmark before I trust it.
-
-## Open tabs in my brain
-
-- multi-agent orchestration for real-world engineering tasks
-- AI tooling that turns plain-English intent into usable infrastructure
-- reliable workflows for simulation-heavy research
-- bridging LLM interfaces with domain-specific computation
-- making technical systems feel a little less brittle and a little more alive
-
 ### 🐍 Watch my contributions get eaten
 
 <picture>
