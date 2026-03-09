@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3200&pause=900&center=true&vCenter=true&width=980&lines=I+build+AI+agents+for+real+engineering+work.;From+MCP+tooling+to+materials+simulation+skills.;Parallelize+the+agents.+Stabilize+the+solver.;Less+prompt+theater.+More+autonomy." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3200&pause=900&color=166534&center=true&vCenter=true&width=980&lines=AI+agents+for+science%2C+not+stage+magic.;MCP+tooling.+Swarm+orchestration.+Numerical+rigor.;Where+generative+AI+meets+real+engineering+work.;Yes%2C+the+agents+get+tests." alt="Typing SVG" />
 
 # Hey, I'm Hesham 👋
 
